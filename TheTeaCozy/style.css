@@ -22,14 +22,12 @@ body {
     height: 50px;
     float: left;
     margin: 10px;
-
 }
 
 .navigation {
     float: right;
     height: 100%;
     margin: 0 auto;
-
 }
 
 .navigation a {
@@ -37,7 +35,6 @@ body {
     display: table;
     float: left;
     padding: 0px 20px;
-
 }
 
 .navigation a li {
@@ -61,7 +58,6 @@ body {
     margin: auto;
     background-color: black;
     width: 100%;
-
 }
 
 .trend-container {
@@ -71,14 +67,12 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-
 }
 
 .trend img {
     height: 200px;
     width: 300px;
     padding: 10px 10px;
-
 }
 
 .banner {
@@ -90,7 +84,6 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
 }
 
 .box-container {
@@ -98,7 +91,6 @@ body {
     margin: 15px auto auto auto;
     display: flex;
     justify-content: space-between;
-
 }
 
 .box {
@@ -109,12 +101,10 @@ body {
     box-sizing: border-box;
     background-color: black;
     opacity: 0.8;
-    
 }
 
 .box h4 {
     font-size: 20px;
-
 }
 
 .contact {
@@ -123,7 +113,6 @@ body {
 }
 
 footer {
-    
     float: left;
     padding-left: 20px;
 }
