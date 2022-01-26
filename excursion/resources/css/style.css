@@ -1,31 +1,27 @@
 body {
     background-color: black;
     text-align: center;
-    font-family: verdana;
-    font-size: 42px;
-    color: white;
 }
 
 .header p {
     font-family: Verdana;
     font-weight: normal;
+    font-size: 50px;
     color: white;
     text-align: center;
-    font-size: 50px;
 }
+ 
 
-.container a {
+a {
     color: aquamarine;
     font-size: 16px;
 }
 
-.banner {
+p {
     font-family: verdana;
-    font-weight: 300;
-    font-size: 42px;
+    font-size: 21px;
+    color: gray;
 }
-
-
 
 #heading {
     font-family: verdana;
@@ -34,9 +30,7 @@ body {
     color: white;
 }
 
-p {
-    font-size: 21px;
-    color: gray
-    
-    ;
+.footer {
+    text-align: right;
+    color: gray;
 }
