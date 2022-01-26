@@ -1,0 +1,52 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    color: gray;
+    text-align: center;
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+    height: 64px;
+    display: block;
+    position: fixed;
+    top: 0px;
+    text-align: left;
+
+}
+
+.logo {
+    height: 32px;
+    float: left;
+    margin: 16px 0px 16px 24px;
+    
+}
+
+.logo2 {
+    height: 32px;
+    float: left;
+    margin: 16px 0px;
+    font-size: 19px;
+}
+.navigation {
+    float: right;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.navigation a {
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 16px;
+    text-decoration: none;
+}
+
+.navigation a li {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    
+    color: grey;
+}
